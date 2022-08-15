@@ -27,3 +27,5 @@ su debido equivalente.
   ![icons8-oreja-48](https://user-images.githubusercontent.com/48141593/184571606-9747483b-9df9-4af1-852d-71b395d0134f.png)
   ![icons8-javascript-48](https://user-images.githubusercontent.com/48141593/184571564-266d75f9-d29a-4112-8539-2e1f08b68adf.png)
 </div>
+
+
