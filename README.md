@@ -1,6 +1,6 @@
 
 
-# Alura Challenge by GarDev
+# Alura Challenge 
 
 
 ## Definición del problema
